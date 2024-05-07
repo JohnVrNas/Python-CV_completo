@@ -1,0 +1,4 @@
+Luiz;68
+Mariana;20
+Ellie;18
+Alexandre;39

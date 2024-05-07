@@ -1,0 +1,5 @@
+nome = input('Qual é o seu nome?')
+print(f'É um prazer te conhecer {nome}! Seja muito bem vindo!')
+a = input('Posso te perguntar uma coisa? ')
+b = input('Qual nome você me daria?')
+print('Uau! {}'.format(b), '...esse nome é muito bonito!')
